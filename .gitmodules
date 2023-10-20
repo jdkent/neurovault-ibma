@@ -1,0 +1,3 @@
+[submodule "nv-data"]
+	path = nv-data
+	url = https://github.com/NeuroVault/nv-data.git
